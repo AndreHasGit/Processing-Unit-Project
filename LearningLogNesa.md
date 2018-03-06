@@ -1,6 +1,6 @@
 # Things I Learnt
 
-Stuff
+In this project I learnt
 
 # Things I want to Learn
 
