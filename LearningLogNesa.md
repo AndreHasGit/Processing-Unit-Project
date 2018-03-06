@@ -1,7 +1,7 @@
-#Things I Learnt
+# Things I Learnt
 
 Stuff
 
-#Things I want to Learn
+# Things I want to Learn
 
 Stuff
